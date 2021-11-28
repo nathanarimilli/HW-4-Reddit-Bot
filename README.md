@@ -6,7 +6,9 @@ My bot isn't directly supporting a specific politician. However, my bot is comme
 
 **2.Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it.**
 
+[Here](https://www.reddit.com/r/BotTown2/comments/r0yi9l/comment/hmbugg3/?utm_source=share&utm_medium=web2x&context=3) is the link to my favorite thread involving my bot
 
+![my favorite thread my bot was in](https://raw.githubusercontent.com/nathanarimilli/HW-4-Reddit-Bot/main/comment%20thread%20scrrenshot.png)
 
 
 Here is my bot_counter.py output
