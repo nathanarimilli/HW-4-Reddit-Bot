@@ -1,5 +1,14 @@
 # HW-4-Reddit-Bot
 
+**1.Clearly states which politician your bot is supporting or opposing.**
+
+My bot isn't directly supporting a specific politician. However, my bot is commenting a ton of random opinions, negative and positive, about Alexandria Ocasio-Cortez and Donald Trump on reddit.
+
+**2.Provides a link to your favorite thread involving your bot, an image screenshot of the thread, and a short description of what you like about it.**
+
+
+
+
 Here is my bot_counter.py output
 
     len(comments)= 1000
